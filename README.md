@@ -1,5 +1,7 @@
 # Heyy!!! The demo link to check website [Amazon-React-APP](https://clone-8932c.web.app/ "Amazon_React_App")
 
+-----------
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
